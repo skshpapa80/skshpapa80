@@ -10,9 +10,9 @@ Hello, I'm a MES developer 🌙
 
 # Ability
 
-- Thira MES install
-- Thira MES customize
-- .NET Winform / WCF / DevExpress 
+- Thira MES install / customize
+- .NET Winform / WCF / DevExpress  
+- Delphi Win32 
 - MSSQL, ORACLE 
 
 ## Language
