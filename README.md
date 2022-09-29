@@ -5,7 +5,7 @@ Hello, I'm a MES developer 🌙
 ```
 
 # Ability
-
+ 
 - .NET Winform / WCF / DevExpress  
 - Delphi Win32 Application  
 - PHP, Python 
@@ -16,7 +16,6 @@ Hello, I'm a MES developer 🌙
 - C#
 - Delphi
 - Python
-- PHP
 
 ## Link
 
