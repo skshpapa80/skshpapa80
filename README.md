@@ -9,6 +9,7 @@ Hello, I'm a MES developer 🌙
 - .NET Winform / WCF / DevExpress  
 - Delphi Win32 Application  
 - PHP, Python 
+- Android App
 - MSSQL, ORACLE 
 
 ## Language
