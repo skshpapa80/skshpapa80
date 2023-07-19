@@ -10,7 +10,7 @@ Hello, I'm a MES developer 🌙
 - Delphi Win32 Application  
 - PHP, Python 
 - Android App (Flutter)
-- MSSQL, ORACLE 
+- MSSQL, ORACLE, MySQL 
 
 ## Language
 
