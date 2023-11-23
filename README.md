@@ -2,6 +2,7 @@
 
 ```
 Hello, I'm a MES developer 🌙
+Thirautech MES Team (Battery Material Group)
 ```
 
 # Ability
@@ -22,5 +23,5 @@ Hello, I'm a MES developer 🌙
 ## Link
 
 - [Blog](https://skshpapa80-diary.blogspot.com/) / [Portfolio](https://skshpapa80-diary.blogspot.com/p/portfolio.html) / [App Dev](https://skshpapa80-dev.blogspot.com/) / [Naver Blog](https://blog.naver.com/skshpapa80/)
-- [Instagram](https://www.instagram.com/skshpapa80/) / [Youtube](https://www.youtube.com/channel/UCok-8nABbWVkBvuwCqTjDbg) / [Linkdin](https://www.linkedin.com/in/skshpapa80/)
+- [Instagram](https://www.instagram.com/skshpapa80/) / [Youtube](https://www.youtube.com/channel/UCok-8nABbWVkBvuwCqTjDbg) / [Linkdin](https://www.linkedin.com/in/skshpapa80/) / [Twitter](https://twitter.com/skshpapa80)
 - [PayPal me](https://paypal.me/skshpapa80?country.x=KR&locale.x=ko_KR)
