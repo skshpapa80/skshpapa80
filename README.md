@@ -16,9 +16,9 @@ Thirautech MES Team (Battery Material Group)
 ## Language
 
 - C#
-- Delphi
+- Object Pascal
 - Python
-- Flutter
+- Dart
 
 ## Link
 
