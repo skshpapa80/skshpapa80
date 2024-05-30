@@ -23,7 +23,7 @@ Thirautech MES Team (Battery Material Group)
 ## Link
 
 - Homepage : [https://skshpapa80.github.io](https://skshpapa80.github.io/)
-- Portfolio : [https://skshpapa80-diary.blogspot.com/p/portfolio.html](https://skshpapa80-diary.blogspot.com/p/portfolio.html)
+- Portfolio : [https://skshpapa80.github.io/Portfolio/](https://skshpapa80.github.io/Portfolio/)
 - Blog : [Blogger](https://skshpapa80-diary.blogspot.com/) / [Naver Blog](https://blog.naver.com/skshpapa80/)  
 - SNS : [Instagram](https://www.instagram.com/skshpapa80/) / [Youtube](https://www.youtube.com/channel/UCok-8nABbWVkBvuwCqTjDbg) / [Linkdin](https://www.linkedin.com/in/skshpapa80/) / [X](https://twitter.com/skshpapa80)
 - Donation : [PayPal me](https://paypal.me/skshpapa80?country.x=KR&locale.x=ko_KR)
