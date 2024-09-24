@@ -5,6 +5,11 @@ Hello, I'm a MES developer 🌙
 Thirautech MES Team (Battery Material Group)
 ```
 
+```
+안녕하세요. 저는 선경선향아빠 입니다.
+MES 개발자이며 티라유텍에서 일하고 있습니다. 
+```
+
 # Ability
  
 - .NET Winform / WCF / DevExpress  
