@@ -1,19 +1,18 @@
 ### Hi there 👋
 
 ```
-Hello, I'm a MES developer 🌙
-Thirautech MES Team (Battery Material Group)
+Hello, My Nikcname skshpapa
+I'm a C# developer 🌙
 ```
 
 ```
 안녕하세요. 저는 선경선향아빠 입니다.
-MES 개발자이며 티라유텍에서 일하고 있습니다.
-예전회사 : 옥토시스, 덕흥정보기술
+C# 개발자로 활동하고 있습니다. 
 ```
 
 # Ability
  
-- .NET Winform / WCF / DevExpress  
+- C# Winform / C# WCF Service / DevExpress  
 - Delphi Win32 Application  
 - PHP Web Application
 - ASP.NET Web Application
