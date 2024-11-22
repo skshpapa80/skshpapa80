@@ -29,7 +29,7 @@ C# 개발자로 활동하고 있습니다.
 ## Link
 
 - Homepage : [https://skshpapa80.github.io/](https://skshpapa80.github.io/)
-- Portfolio : [https://skshpapa80.github.io/Portfolio/](https://skshpapa80.github.io/Portfolio/) 
+- Portfolio : [https://www.raycho12.pe.kr/portfolio/](https://www.raycho12.pe.kr/portfolio/)
 - Blog : [https://www.raycho12.pe.kr](https://www.raycho12.pe.kr)
 - Hobby Blog : [Naver Blog](https://blog.naver.com/skshpapa80/) 
 - SNS : [Instagram](https://www.instagram.com/skshpapa80/) / [Youtube](https://www.youtube.com/channel/UCok-8nABbWVkBvuwCqTjDbg) / [Linkdin](https://www.linkedin.com/in/skshpapa80/) / [X](https://twitter.com/skshpapa80) / [Threads](https://www.threads.net/@skshpapa80)
