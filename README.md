@@ -2,12 +2,12 @@
 
 ```
 Hello, My Nikcname skshpapa
-I'm a C# developer 🌙
+I'm a MES developer 🌙
 ```
 
 ```
 안녕하세요. 저는 선경선향아빠 입니다.
-C# 개발자로 활동하고 있습니다. 
+MES 개발자로 활동하고 있습니다. 
 ```
 
 # Ability
