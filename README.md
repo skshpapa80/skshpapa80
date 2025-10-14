@@ -3,11 +3,13 @@
 ```
 Hello, My Nikcname skshpapa
 I'm a MES developer 🌙
+I am currently working at LS-THIRAUTECH.
 ```
 
 ```
 안녕하세요. 저는 선경선향아빠 입니다.
-MES 개발자로 활동하고 있습니다. 
+MES 개발자로 활동하고 있습니다.
+LS티라유텍에서 일을하고 있습니다. 
 ```
 
 # Ability
