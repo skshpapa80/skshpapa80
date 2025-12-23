@@ -35,5 +35,5 @@ LS티라유텍에서 일을하고 있습니다.
 - Naver Blog(Hobby, Travel) : [https://blog.naver.com/skshpapa80/](https://blog.naver.com/skshpapa80/)
 - Dev Blog : [https://raycho-dev.tistory.com/](https://raycho-dev.tistory.com/)
 - Homepage : [https://skshpapa80.github.io/](https://skshpapa80.github.io/)
-- SNS : [Youtube](https://www.youtube.com/@skshpapa80-tube) / [Linkdin](https://www.linkedin.com/in/skshpapa80/) / [X](https://twitter.com/skshpapa80) / [Instagram](https://www.instagram.com/raychodream/)
+- SNS : [Youtube](https://www.youtube.com/@skshpapa80-tube) / [Linkdin](https://www.linkedin.com/in/skshpapa80/) / [Instagram](https://www.instagram.com/raychodream/)
 
