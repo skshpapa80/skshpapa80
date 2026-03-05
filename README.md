@@ -14,7 +14,7 @@ LS티라유텍에서 일을하고 있습니다.
 
 # Ability
  
-- C# Winform / C# WCF Service / DevExpress  
+- C# Winform / C# WCF Service / DevExpress- 
 - Delphi Win32 Application  
 - PHP Web Application
 - ASP.NET Web Application
@@ -24,6 +24,7 @@ LS티라유텍에서 일을하고 있습니다.
 ## Language
 
 - C#
+- JAVA
 - Object Pascal
 - Python
 - Dart
