@@ -8,8 +8,8 @@ I am currently working at LS-THIRAUTECH.
 
 ```
 안녕하세요. 저는 선경선향아빠 입니다.
-MES 개발자로 활동하고 있습니다.
-LS티라유텍에서 일을하고 있습니다. 
+저는 제조와 물류 현장을 돌아가게 만드는 MES/WMS 시스템 아키텍트 겸 백엔드 개발자입니다. 💻
+주로 Spring Boot, C#, Rust를 오가며 개발하고, MSSQL 쿼리 튜닝이나 DB 최적화에 진심인 편이에요.
 ```
 
 # Ability
@@ -30,6 +30,7 @@ LS티라유텍에서 일을하고 있습니다.
 - Python
 - Dart
 - PHP
+- Rust
 
 ## Link
 
